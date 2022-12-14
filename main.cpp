@@ -2,8 +2,8 @@
 //  main.cpp
 //  何凯明暗通道导向滤波算法仿真
 //
-//  Created by 徐振轩 on 15/6/4.
-//  Copyright (c) 2015年 徐振轩. All rights reserved.
+//  Created by xLI4n on 15/6/4.
+//  Copyright (c) 2015年 xLI4n. All rights reserved.
 //
 
 #include <opencv2/opencv.hpp>
